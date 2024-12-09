@@ -1,6 +1,6 @@
 module Main where
 
-import Data.List (any, splitAt)
+import Data.List (any)
 import Text.Printf (printf)
 
 type Report = [Level]
